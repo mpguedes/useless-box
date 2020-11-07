@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "~/Library/Arduino15/packages/esp8266/hardware/esp8266/2.7.4/**",
+                "/Users/t732955/Library/Arduino15/packages/esp8266/hardware/esp8266/2.7.4/**",
+                "/Users/t732955/Library/Arduino15/packages/esp8266/tools/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "ARDUINO=188"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": []
+        },
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/t732955/Library/Arduino15/packages/esp8266/tools/**",
+                "/Users/t732955/Library/Arduino15/packages/esp8266/hardware/esp8266/2.7.4/**"
+            ],
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
